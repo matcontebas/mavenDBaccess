@@ -48,7 +48,7 @@ public class PreparaMailDesaturazioni extends FinestraApplicativa {
 	private Statement statement=null;
 	private ResultSet recordset=null;
 	private JTextField casellatxtNumerorecord; //definisco la casella di testo che conterr� il numero del record
-	/*La HashMap registromaildainviare serve per capire se la mail � stata inviata o meno.
+	/**La HashMap registromaildainviare serve per capire se la mail � stata inviata o meno.
 	 * Per ogni record della query viene impostato il valore a true. La chiave � un intero, ovvero
 	 *il numero del record ed il valore pu� essere true o false a seconda se la mail � da inviare o meno.
 	 *Quando la mail viene inviata con successo, il valore relativo al numero di record corrente viene impostato

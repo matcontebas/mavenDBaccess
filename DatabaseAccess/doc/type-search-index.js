@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"it.maven.database.java.DatabaseAccess","l":"App"},{"p":"it.maven.database.java.DatabaseAccess","l":"PreparaMailDesaturazioni"}]
